@@ -1,0 +1,9 @@
+django
+numpy
+Pillow
+scikit-learn
+pandas
+progressbar
+mtcnn
+tensorflow
+keras
